@@ -1,2 +1,3 @@
-# Conexao-Python-MySQL
-Código de conexão do Python via Google Colab com o  MySQL hospedado no Google Cloud Platform.
+### ✅ Conexão Python com MySQL + CRUD ✅
+
+`Objetivo`: Realizar a conexão Python <-> MySQL e realizar as funções de CRUD (Create, Read, Update, Delete) no banco de dados usando o Python.
